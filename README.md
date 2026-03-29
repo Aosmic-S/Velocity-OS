@@ -216,7 +216,7 @@ Open `ui/dashboard.html` in any modern browser.
 
 ## License
 
-MIT License — Aosmic Studio × Absolute Tech
+Apache 2.0 — Aosmic Studio × Absolute Tech
 
 ---
 
